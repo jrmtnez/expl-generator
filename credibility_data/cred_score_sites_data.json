@@ -1,0 +1,732 @@
+{
+    "vanguardngr.com": {
+        "t_count": 0,
+        "pf_count": 1,
+        "f_count": 0
+    },
+    "naturalhealingmagazine.com": {
+        "t_count": 0,
+        "pf_count": 0,
+        "f_count": 1
+    },
+    "yahoo.com": {
+        "t_count": 1,
+        "pf_count": 0,
+        "f_count": 0
+    },
+    "healthyfoodhouse.com": {
+        "t_count": 0,
+        "pf_count": 2,
+        "f_count": 0
+    },
+    "tiphero.com": {
+        "t_count": 0,
+        "pf_count": 0,
+        "f_count": 1
+    },
+    "snopes.com": {
+        "t_count": 6,
+        "pf_count": 22,
+        "f_count": 31
+    },
+    "mycolumbuspower.com": {
+        "t_count": 0,
+        "pf_count": 1,
+        "f_count": 0
+    },
+    "sciencedirect.com": {
+        "t_count": 1,
+        "pf_count": 0,
+        "f_count": 0
+    },
+    "healthimpactnews.com": {
+        "t_count": 0,
+        "pf_count": 0,
+        "f_count": 2
+    },
+    "factaholics.com": {
+        "t_count": 0,
+        "pf_count": 1,
+        "f_count": 0
+    },
+    "themakeyourownzone.com": {
+        "t_count": 0,
+        "pf_count": 1,
+        "f_count": 0
+    },
+    "ladbible.com": {
+        "t_count": 0,
+        "pf_count": 1,
+        "f_count": 0
+    },
+    "providr.com": {
+        "t_count": 0,
+        "pf_count": 2,
+        "f_count": 0
+    },
+    "medicinenet.com": {
+        "t_count": 0,
+        "pf_count": 0,
+        "f_count": 1
+    },
+    "iflscience.com": {
+        "t_count": 9,
+        "pf_count": 1,
+        "f_count": 0
+    },
+    "goodhousekeeping.com": {
+        "t_count": 0,
+        "pf_count": 0,
+        "f_count": 1
+    },
+    "technologynetworks.com": {
+        "t_count": 1,
+        "pf_count": 0,
+        "f_count": 0
+    },
+    "time.com": {
+        "t_count": 4,
+        "pf_count": 0,
+        "f_count": 0
+    },
+    "dailywire.com": {
+        "t_count": 1,
+        "pf_count": 1,
+        "f_count": 0
+    },
+    "thelancet.com": {
+        "t_count": 1,
+        "pf_count": 0,
+        "f_count": 0
+    },
+    "scholarlycommons.henryford.com": {
+        "t_count": 1,
+        "pf_count": 0,
+        "f_count": 0
+    },
+    "bmcmedicine.biomedcentral.com": {
+        "t_count": 0,
+        "pf_count": 1,
+        "f_count": 0
+    },
+    "thegatewaypundit.com": {
+        "t_count": 0,
+        "pf_count": 1,
+        "f_count": 1
+    },
+    "gofundme.com": {
+        "t_count": 0,
+        "pf_count": 0,
+        "f_count": 1
+    },
+    "maravipost.com": {
+        "t_count": 0,
+        "pf_count": 0,
+        "f_count": 1
+    },
+    "vaxxter.com": {
+        "t_count": 0,
+        "pf_count": 0,
+        "f_count": 1
+    },
+    "ncbi.nlm.nih.gov": {
+        "t_count": 1,
+        "pf_count": 0,
+        "f_count": 1
+    },
+    "nationaltimesaustralia.com": {
+        "t_count": 0,
+        "pf_count": 0,
+        "f_count": 1
+    },
+    "foxnews.com": {
+        "t_count": 2,
+        "pf_count": 0,
+        "f_count": 1
+    },
+    "leadstories.com": {
+        "t_count": 0,
+        "pf_count": 1,
+        "f_count": 0
+    },
+    "apnews.com": {
+        "t_count": 1,
+        "pf_count": 0,
+        "f_count": 0
+    },
+    "scientificamerican.com": {
+        "t_count": 1,
+        "pf_count": 0,
+        "f_count": 0
+    },
+    "realrawnews.com": {
+        "t_count": 0,
+        "pf_count": 1,
+        "f_count": 0
+    },
+    "reuters.com": {
+        "t_count": 3,
+        "pf_count": 0,
+        "f_count": 1
+    },
+    "mirror.co.uk": {
+        "t_count": 0,
+        "pf_count": 1,
+        "f_count": 0
+    },
+    "thenationalpulse.com": {
+        "t_count": 0,
+        "pf_count": 0,
+        "f_count": 1
+    },
+    "facebook.com": {
+        "t_count": 0,
+        "pf_count": 4,
+        "f_count": 3
+    },
+    "dailymail.co.uk": {
+        "t_count": 1,
+        "pf_count": 3,
+        "f_count": 0
+    },
+    "sciencedaily.com": {
+        "t_count": 0,
+        "pf_count": 1,
+        "f_count": 0
+    },
+    "telegraph.co.uk": {
+        "t_count": 1,
+        "pf_count": 1,
+        "f_count": 0
+    },
+    "fox5atlanta.com": {
+        "t_count": 1,
+        "pf_count": 0,
+        "f_count": 0
+    },
+    "seattletimes.com": {
+        "t_count": 2,
+        "pf_count": 0,
+        "f_count": 0
+    },
+    "theirishsentinel.com": {
+        "t_count": 0,
+        "pf_count": 0,
+        "f_count": 1
+    },
+    "womensfundingnetwork.org": {
+        "t_count": 1,
+        "pf_count": 0,
+        "f_count": 0
+    },
+    "buggzodiac.com": {
+        "t_count": 0,
+        "pf_count": 1,
+        "f_count": 0
+    },
+    "reportingthetruth.com": {
+        "t_count": 0,
+        "pf_count": 1,
+        "f_count": 0
+    },
+    "washingtontimes.com": {
+        "t_count": 0,
+        "pf_count": 1,
+        "f_count": 0
+    },
+    "globalnews.ca": {
+        "t_count": 1,
+        "pf_count": 0,
+        "f_count": 0
+    },
+    "edition.cnn.com": {
+        "t_count": 6,
+        "pf_count": 0,
+        "f_count": 0
+    },
+    "breitbart.com": {
+        "t_count": 0,
+        "pf_count": 1,
+        "f_count": 0
+    },
+    "zmescience.com": {
+        "t_count": 1,
+        "pf_count": 0,
+        "f_count": 0
+    },
+    "popsci.com": {
+        "t_count": 1,
+        "pf_count": 0,
+        "f_count": 0
+    },
+    "huffpost.com": {
+        "t_count": 1,
+        "pf_count": 0,
+        "f_count": 0
+    },
+    "ushealthmagz.com": {
+        "t_count": 0,
+        "pf_count": 0,
+        "f_count": 1
+    },
+    "urhealthguide.com": {
+        "t_count": 0,
+        "pf_count": 1,
+        "f_count": 2
+    },
+    "washingtonpost.com": {
+        "t_count": 0,
+        "pf_count": 1,
+        "f_count": 0
+    },
+    "canada.ca": {
+        "t_count": 1,
+        "pf_count": 0,
+        "f_count": 0
+    },
+    "dailystar.co.uk": {
+        "t_count": 0,
+        "pf_count": 0,
+        "f_count": 1
+    },
+    "truthunmuted.org": {
+        "t_count": 0,
+        "pf_count": 1,
+        "f_count": 0
+    },
+    "newsroom.clevelandclinic.org": {
+        "t_count": 1,
+        "pf_count": 0,
+        "f_count": 0
+    },
+    "stopmandatoryvaccination.com": {
+        "t_count": 0,
+        "pf_count": 0,
+        "f_count": 1
+    },
+    "fox32chicago.com": {
+        "t_count": 0,
+        "pf_count": 1,
+        "f_count": 0
+    },
+    "newstarget.com": {
+        "t_count": 0,
+        "pf_count": 1,
+        "f_count": 0
+    },
+    "nativetribe.us": {
+        "t_count": 0,
+        "pf_count": 0,
+        "f_count": 1
+    },
+    "lifesitenews.com": {
+        "t_count": 0,
+        "pf_count": 0,
+        "f_count": 2
+    },
+    "apost.com": {
+        "t_count": 0,
+        "pf_count": 1,
+        "f_count": 0
+    },
+    "theatlantic.com": {
+        "t_count": 1,
+        "pf_count": 0,
+        "f_count": 0
+    },
+    "nj.com": {
+        "t_count": 1,
+        "pf_count": 0,
+        "f_count": 0
+    },
+    "usatoday.com": {
+        "t_count": 1,
+        "pf_count": 0,
+        "f_count": 0
+    },
+    "thecommonsenseshow.com": {
+        "t_count": 0,
+        "pf_count": 0,
+        "f_count": 1
+    },
+    "forbes.com": {
+        "t_count": 1,
+        "pf_count": 0,
+        "f_count": 0
+    },
+    "bbc.com": {
+        "t_count": 5,
+        "pf_count": 0,
+        "f_count": 0
+    },
+    "today.com": {
+        "t_count": 1,
+        "pf_count": 1,
+        "f_count": 0
+    },
+    "yle.fi": {
+        "t_count": 1,
+        "pf_count": 0,
+        "f_count": 0
+    },
+    "fitlife.tv": {
+        "t_count": 0,
+        "pf_count": 1,
+        "f_count": 0
+    },
+    "cbc.ca": {
+        "t_count": 0,
+        "pf_count": 1,
+        "f_count": 0
+    },
+    "drugprevent.org.uk": {
+        "t_count": 0,
+        "pf_count": 1,
+        "f_count": 0
+    },
+    "blogs.scientificamerican.com": {
+        "t_count": 0,
+        "pf_count": 0,
+        "f_count": 1
+    },
+    "newsweek.com": {
+        "t_count": 1,
+        "pf_count": 0,
+        "f_count": 0
+    },
+    "healthnutnews.com": {
+        "t_count": 0,
+        "pf_count": 0,
+        "f_count": 1
+    },
+    "ihlayanews.com": {
+        "t_count": 0,
+        "pf_count": 1,
+        "f_count": 0
+    },
+    "twitter.com": {
+        "t_count": 0,
+        "pf_count": 1,
+        "f_count": 5
+    },
+    "whitehouse.gov": {
+        "t_count": 1,
+        "pf_count": 0,
+        "f_count": 0
+    },
+    "beawarefoundation.org": {
+        "t_count": 0,
+        "pf_count": 1,
+        "f_count": 0
+    },
+    "nbcnews.com": {
+        "t_count": 4,
+        "pf_count": 0,
+        "f_count": 0
+    },
+    "nypost.com": {
+        "t_count": 1,
+        "pf_count": 1,
+        "f_count": 1
+    },
+    "livelovefruit.com": {
+        "t_count": 0,
+        "pf_count": 1,
+        "f_count": 0
+    },
+    "healthy-holistic-living.com": {
+        "t_count": 0,
+        "pf_count": 1,
+        "f_count": 1
+    },
+    "nytimes.com": {
+        "t_count": 2,
+        "pf_count": 0,
+        "f_count": 0
+    },
+    "pixelatedplanet.net": {
+        "t_count": 0,
+        "pf_count": 1,
+        "f_count": 0
+    },
+    "consumerreports.org": {
+        "t_count": 0,
+        "pf_count": 1,
+        "f_count": 0
+    },
+    "med.stanford.edu": {
+        "t_count": 1,
+        "pf_count": 0,
+        "f_count": 0
+    },
+    "npr.org": {
+        "t_count": 4,
+        "pf_count": 0,
+        "f_count": 0
+    },
+    "buzzfeednews.com": {
+        "t_count": 1,
+        "pf_count": 0,
+        "f_count": 0
+    },
+    "jbhandleyblog.com": {
+        "t_count": 0,
+        "pf_count": 0,
+        "f_count": 1
+    },
+    "heavy.com": {
+        "t_count": 1,
+        "pf_count": 0,
+        "f_count": 0
+    },
+    "thisisinsider.com": {
+        "t_count": 1,
+        "pf_count": 0,
+        "f_count": 0
+    },
+    "politifact.com": {
+        "t_count": 0,
+        "pf_count": 0,
+        "f_count": 1
+    },
+    "foodbabe.com": {
+        "t_count": 0,
+        "pf_count": 0,
+        "f_count": 1
+    },
+    "healtheternally.com": {
+        "t_count": 0,
+        "pf_count": 1,
+        "f_count": 0
+    },
+    "articles.latimes.com": {
+        "t_count": 0,
+        "pf_count": 0,
+        "f_count": 1
+    },
+    "theguardian.com": {
+        "t_count": 0,
+        "pf_count": 1,
+        "f_count": 0
+    },
+    "shareably.net": {
+        "t_count": 0,
+        "pf_count": 0,
+        "f_count": 1
+    },
+    "hellolovelyliving.com": {
+        "t_count": 0,
+        "pf_count": 1,
+        "f_count": 0
+    },
+    "tinhtamvn.net": {
+        "t_count": 0,
+        "pf_count": 1,
+        "f_count": 0
+    },
+    "naturalnews.com": {
+        "t_count": 0,
+        "pf_count": 1,
+        "f_count": 4
+    },
+    "sciencepublishinggroup.com": {
+        "t_count": 1,
+        "pf_count": 0,
+        "f_count": 0
+    },
+    "highline.huffingtonpost.com": {
+        "t_count": 0,
+        "pf_count": 1,
+        "f_count": 0
+    },
+    "zenodo.org": {
+        "t_count": 0,
+        "pf_count": 0,
+        "f_count": 1
+    },
+    "metro.co.uk": {
+        "t_count": 1,
+        "pf_count": 0,
+        "f_count": 0
+    },
+    "usccb.org": {
+        "t_count": 0,
+        "pf_count": 0,
+        "f_count": 1
+    },
+    "healthdiary247.com": {
+        "t_count": 0,
+        "pf_count": 1,
+        "f_count": 0
+    },
+    "nationalfile.com": {
+        "t_count": 0,
+        "pf_count": 0,
+        "f_count": 1
+    },
+    "newspunch.com": {
+        "t_count": 0,
+        "pf_count": 0,
+        "f_count": 1
+    },
+    "collective-evolution.com": {
+        "t_count": 0,
+        "pf_count": 0,
+        "f_count": 1
+    },
+    "alachuachronicle.com": {
+        "t_count": 0,
+        "pf_count": 1,
+        "f_count": 0
+    },
+    "bostonherald.com": {
+        "t_count": 1,
+        "pf_count": 0,
+        "f_count": 0
+    },
+    "sbs.com.au": {
+        "t_count": 1,
+        "pf_count": 0,
+        "f_count": 0
+    },
+    "m.facebook.com": {
+        "t_count": 1,
+        "pf_count": 0,
+        "f_count": 0
+    },
+    "irishtimes.com": {
+        "t_count": 0,
+        "pf_count": 1,
+        "f_count": 0
+    },
+    "healthline.com": {
+        "t_count": 0,
+        "pf_count": 1,
+        "f_count": 0
+    },
+    "newscientist.com": {
+        "t_count": 1,
+        "pf_count": 0,
+        "f_count": 0
+    },
+    "nzherald.co.nz": {
+        "t_count": 1,
+        "pf_count": 0,
+        "f_count": 0
+    },
+    "who.int": {
+        "t_count": 0,
+        "pf_count": 1,
+        "f_count": 0
+    },
+    "anonews.co": {
+        "t_count": 0,
+        "pf_count": 0,
+        "f_count": 1
+    },
+    "cbsnews.com": {
+        "t_count": 1,
+        "pf_count": 1,
+        "f_count": 1
+    },
+    "sciencealert.com": {
+        "t_count": 1,
+        "pf_count": 0,
+        "f_count": 0
+    },
+    "thejakartapost.com": {
+        "t_count": 1,
+        "pf_count": 0,
+        "f_count": 0
+    },
+    "65.127.124.62": {
+        "t_count": 0,
+        "pf_count": 0,
+        "f_count": 1
+    },
+    "sweetandsavory.co": {
+        "t_count": 0,
+        "pf_count": 0,
+        "f_count": 1
+    },
+    "abcnews.go.com": {
+        "t_count": 1,
+        "pf_count": 0,
+        "f_count": 0
+    },
+    "thestonkmarket.com": {
+        "t_count": 0,
+        "pf_count": 1,
+        "f_count": 0
+    },
+    "latimes.com": {
+        "t_count": 0,
+        "pf_count": 1,
+        "f_count": 0
+    },
+    "davidwolfe.com": {
+        "t_count": 0,
+        "pf_count": 1,
+        "f_count": 0
+    },
+    "scmp.com": {
+        "t_count": 0,
+        "pf_count": 1,
+        "f_count": 0
+    },
+    "vitalitynow.org": {
+        "t_count": 0,
+        "pf_count": 1,
+        "f_count": 0
+    },
+    "musthavemom.com": {
+        "t_count": 0,
+        "pf_count": 1,
+        "f_count": 0
+    },
+    "ageofautism.com": {
+        "t_count": 0,
+        "pf_count": 0,
+        "f_count": 1
+    },
+    "academic.oup.com": {
+        "t_count": 1,
+        "pf_count": 0,
+        "f_count": 0
+    },
+    "independent.co.uk": {
+        "t_count": 0,
+        "pf_count": 1,
+        "f_count": 0
+    },
+    "instagram.com": {
+        "t_count": 0,
+        "pf_count": 1,
+        "f_count": 0
+    },
+    "cnbc.com": {
+        "t_count": 1,
+        "pf_count": 0,
+        "f_count": 0
+    },
+    "england.nhs.uk": {
+        "t_count": 1,
+        "pf_count": 0,
+        "f_count": 0
+    },
+    "althealthworks.com": {
+        "t_count": 0,
+        "pf_count": 0,
+        "f_count": 1
+    },
+    "torontotmjandsleepcentre.com": {
+        "t_count": 0,
+        "pf_count": 0,
+        "f_count": 1
+    },
+    "top10blogstyle.com": {
+        "t_count": 0,
+        "pf_count": 1,
+        "f_count": 0
+    }
+}

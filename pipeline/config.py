@@ -1,0 +1,36 @@
+ROOT_LOGGER_ID = "hnfc"
+
+DATA_PATH = "data/"
+CREDIBILITY_DATA_PATH = "credibility_data/"
+
+CRED_SCORE_SITES_DATA_FILE_NAME = "cred_score_sites_data.json"
+CRED_SCORE_TRUSTED_DOMAIN_FILE_NAME = "cred_score_trusted_domains.json"
+CRED_SCORE_TRUSTED_L2_SITES_FILE_NAME = "cred_score_trusted_l2_sites.json"
+CRED_SCORE_TRUSTED_SITES_FILE_NAME = "cred_score_trusted_sites.json"
+CRED_SCORE_UNIVERSITY_SITES_FILE_NAME = "cred_score_university_sites.json"
+CRED_SCORE_FACT_CHECKING_SITES_FILE_NAME = "cred_score_fact_checking_sites.json"
+CRED_SCORE_IFFY_SITES_FILE_NAME = "cred_score_iffy_sites.json"
+CRED_SCORE_NAIVE_FC_SITES_FILE_NAME = "cred_score_fc_sites.json"
+
+SITES_SEARCH_CACHE_FILE_NAME = "sites_search_cache.json"
+QUESTION_SEARCH_CACHE_FILE_NAME = "question_search_cache.json"
+
+NEWS_ITEMS_FILE_NAME = "news_items.json"
+ALL_NEWS_ITEMS_FILE_NAME = "all_news_items.json"
+SELECTED_NEWS_ITEMS_FILE_NAME = "selected_news_items.json"
+
+RESULTS_PATH = "results/"
+RESULTS_ANALYSIS_PATH = "results_analysis/"
+
+EVALUATED_NEWS_ITEMS_FILE_NAME = "%s_evaluated_news_items.json"
+EVALUATION_TEMPLATE_FILE_NAME = "%s_evaluation_template.json"
+RESULTS_FILE_NAME = "results_%s_evaluated_with_%s.json"
+EVIDENCE_TRIPLETS_FILE_NAME = "%s%s_evidence_triplets.json"
+EVIDENCE_REASONING_FILE_NAME = "%s_item_evidence_triplets_reasoning.json"
+ITEM_NON_CONTRADICTION_FILE_NAME = "%s%s_arguments_and_explanation.json"
+UNRELIABLE_SEARCH_SITES_FILE_NAME = "unreliable_search_sites.json"
+FINAL_EXPLANATIONS_COMPARE_FILE_NAME = "%s_final_explanations_compare_evaluated_with_%s.json"
+COMBINED_EVIDENCE_REASONING_FILE_NAME = "combined_item_evidence_triplets_reasoning.json"
+COMBINED_EVIDENCE_TRIPLETS_FILE_NAME = "combined%s_evidence_triplets.json"
+COMBINED_ITEM_REASONING_FILE_NAME = "combined_item_reasoning.json"
+FINAL_EXPLANATION_FILE_NAME = "%s_final_explanation.json"
